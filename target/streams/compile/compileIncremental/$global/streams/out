@@ -1,0 +1,32 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Test.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/MySIMPLDSL.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/ProgramElements.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Environment.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Converter.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Test.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/MySIMPLDSL.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/ProgramElements.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Environment.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Converter.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Test.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/MySIMPLDSL.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/ProgramElements.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Environment.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Converter.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Test.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/MySIMPLDSL.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/ProgramElements.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Environment.scala, /Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Converter.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to /Users/CYT/Dropbox/UT/CS 345/test/hello/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 487c16f0, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/classes:/Users/CYT/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/CYT/Dropbox/UT/CS 345/test/hello/target/scala-2.11/classes:/Users/CYT/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar:/Users/CYT/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar:/Users/CYT/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.4.jar:/Users/CYT/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar[0m
+[0m[[31merror[0m] [0m/Users/CYT/Dropbox/UT/CS 345/test/hello/src/main/scala/dsl/Converter.scala:15: illegal start of simple expression[0m
+[0m[[31merror[0m] [0m      val convertedCode = q"println(" + convert(m.group(1)) + ")"[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0mone error found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
